@@ -1,0 +1,6 @@
+Date,Category,Amount,Description
+2024-01-10,Travel,300,Flight tickets for conference
+2024-01-15,Office Supplies,150,New office chairs
+2024-01-20,Utilities,1000,Monthly electricity bill
+2024-01-25,Food,200,Team lunch
+2024-01-30,Marketing,500,Online advertising

@@ -1,0 +1,6 @@
+EmployeeID,Name,Position,Department,Salary
+101,John Doe,Software Engineer,IT,70000
+102,Jane Smith,Project Manager,IT,85000
+103,Emily Davis,Designer,Marketing,60000
+104,Michael Brown,Data Analyst,Finance,65000
+105,Linda White,HR Manager,Human Resources,75000

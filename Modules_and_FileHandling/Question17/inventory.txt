@@ -1,0 +1,6 @@
+ItemID,ItemName,Category,Quantity,Price
+001,Laptop,Electronics,50,800
+002,Office Chair,Furniture,200,120
+003,Notebook,Stationery,500,5
+004,Printer,Electronics,30,150
+005,Desk,Furniture,100,200
