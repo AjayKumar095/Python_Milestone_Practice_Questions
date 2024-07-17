@@ -7,6 +7,7 @@ app.config['SECRET_KEY'] = 'your_secret_key_here'
 
 # MongoDB connection setup
 # Replace Username and Password with you actual usename and password for mongodb client or database.
+
 client = MongoClient('mongodb+srv://<Username>:<Password>m@cluster0.wxxmacs.mongodb.net/?retryWrites=true&w=majority')
 db = client['mydatabase']  # Replace 'mydatabase' with your database name
 users_collection = db['users']  # Collection for storing user data
