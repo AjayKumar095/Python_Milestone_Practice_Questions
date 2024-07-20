@@ -1,13 +1,20 @@
 """Question 13. Implement a python package structure for  a project named ecommerece and module for product management and order processing."""
 
 
-from product import management
+from product.management import add_product, remove_product, product_list
 from order import processing
 
-# Adding a product
-management.add_product("Laptop", 1200)
-
-# Placing an order
-cart = [...]  # assume this is a list of products
-customer_info = {...}  # customer information
-processing.place_order(cart, customer_info)
+## adding new product in inventory
+print('==============================================')
+print('\n')
+print(product_list())
+print('\n')
+print('==============================================')
+print('\n')
+print(f'Adding a new product in inventory:', add_product('Earbuds', 850, 65))## adding new product in inventory
+print('==============================================')
+print('\n')
+print(product_list())
+print('\n')
+print('==============================================')
+print('\n')
