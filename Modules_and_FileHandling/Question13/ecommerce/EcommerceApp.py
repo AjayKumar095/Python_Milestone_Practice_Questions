@@ -1,3 +1,6 @@
+"""Question 13. Implement a python package structure for  a project named ecommerece and module for product management and order processing."""
+
+
 from product import management
 from order import processing
 
