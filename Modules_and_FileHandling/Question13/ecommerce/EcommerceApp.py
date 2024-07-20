@@ -2,7 +2,8 @@
 
 
 from product.management import add_product, remove_product, product_list
-from order import processing
+
+## use case
 
 ## adding new product in inventory
 print('==============================================')
